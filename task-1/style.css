@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.google_logo {
+  text-align: center;
+}
+.content {
+  background-color: #eeeeee;
+  width: 90%;
+  margin: 0px auto;
+}
+.content_1 {
+  text-align: center;
+}
+.content_2_div_1_1 {
+  padding-top: 10px;
+}
+.content_2_div_2_1 {
+  padding-top: 5px;
+}
+.input {
+  width: 300px;
+  height: 20px;
+}
+.content_1_buttons {
+  display: flex;
+  justify-content: center;
+}
+.content_1_buttons_1 {
+  padding-right: 10px;
+}
+.content_2 {
+  display: flex;
+  justify-content: center;
+}
+.content_2_div_1 {
+  background-color: #7ee5da;
+  width: 35%;
+  height: 90px;
+  text-align: center;
+}
+.content_2_div_2 {
+  background-color: #70ccc2;
+  width: 20%;
+  height: 90px;
+  text-align: center;
+}
+.content_2_div_3 {
+  background-color: #62b3aa;
+  width: 45%;
+  height: 90px;
+  text-align: center;
+}
+.content_2_div_3_footer {
+  display: flex;
+  justify-content: center;
+}
+
+.input_2 {
+  width: 180px;
+}
+.content_2_div_3_footer_btn {
+  padding-right: 10px;
+}
+.footer {
+  text-align: center;
+  margin-top: 30px;
+}

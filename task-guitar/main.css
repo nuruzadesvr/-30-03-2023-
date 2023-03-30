@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+   text-align: center;
+}
+.switch{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+.switch_1{
+    padding-right: 20px;
+
+}
+
+.switch_2{
+  
+    padding-right: 20px;
+}
+.store_div_text{
+    color: #be1a2b;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+.main_page{
+    color: #8c47c8;
+    padding-bottom: 20px;
+}
+.text_2{
+    padding-bottom: 20px;
+}
+.text_3{
+    color: #bb992d;
+    padding-bottom: 20px;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
